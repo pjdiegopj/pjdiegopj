@@ -1,2 +1,2 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=@pjdiegopj&fontSize=40&fontAlignY=35)
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,linux,git,github,nginx)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,node,python,linux,git,github,nginx)
